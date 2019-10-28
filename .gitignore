@@ -13,3 +13,4 @@ yarn-error.log
 firebase-config.json
 firebase-user.json
 server/config/secret.json
+.gitignore
